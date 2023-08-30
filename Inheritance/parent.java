@@ -14,7 +14,7 @@ package Inheritance;
      }
 
      public static void main(String[] args) {
-         parent gh=(parent)new pent();
+         parent gh=new parent();
          gh.ok2("hel");
          gh.ok1(5);
      }
