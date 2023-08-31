@@ -14,3 +14,8 @@ public class statttic {
         fun1.func2();
     }
 }
+class card{
+    static void ango(){
+        System.out.println("This is a tp class");
+    }
+}
