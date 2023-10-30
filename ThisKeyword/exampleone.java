@@ -21,6 +21,5 @@ public class exampleone {
 
      tr.settr(56);
         System.out.println(tr.twos);
-
     }
 }
