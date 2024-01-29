@@ -7,10 +7,10 @@ public class UseStatic {
         System.out.println("This is static");
     }
 
-    static class hero{
-        static void print(){
-            System.out.println("ha bhai");
-        }
+static class hero{
+static void print(){
+System.out.println("ha bhai");
+ }
     }
     class anti{
         void prtin(){
